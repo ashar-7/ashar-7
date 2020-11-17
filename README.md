@@ -6,7 +6,3 @@
 
 #### Currently working on:
 [![JetMessenger](https://github-readme-stats.vercel.app/api/pin/?username=ashar-7&repo=JetMessenger&show_owner=true&theme=dracula)](https://github.com/ashar-7/JetMessenger)
-
-[![WeatherCards](https://github-readme-stats.vercel.app/api/pin/?username=ashar-7&repo=WeatherCards-ComposeDesktop&show_owner=true&theme=dracula)](https://github.com/ashar-7/WeatherCards-ComposeDesktop)
-
-<img src="https://komarev.com/ghpvc/?username=ashar-7&color=green&style=flat-square" align="right" />
